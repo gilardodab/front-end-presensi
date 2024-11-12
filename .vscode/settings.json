@@ -1,0 +1,11 @@
+{
+    "avdmanager.sdkManager": "e:\\Sdk\\cmdline-tools\\latest\\bin\\sdkmanager.bat",
+    "dart.hotReloadOnSave": "all",
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "files.autoSaveDelay": 500,
+    "files.autoSave": "afterDelay",
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.previewFlutterUiGuides": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true
+}
